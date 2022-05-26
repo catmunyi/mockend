@@ -12,7 +12,9 @@
     "issue_date": {
        "string": [""]
     },
-    "available": true,
+    "available": {
+       "boolean":[true]
+    },
     "used_by": {
        "string": [""]
     },
