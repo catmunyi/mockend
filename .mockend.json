@@ -1,11 +1,23 @@
 {
   "redeem_code": {
-    "id": 0,
-    "code": "",
-    "issue_by": "",
-    "issue_date": "",
+    "id": {
+       "int": [0]
+    },
+    "code": {
+       "string": ["test-code"]
+    },
+    "issue_by": {
+       "string": ["test01","test02"]
+    },
+    "issue_date": {
+       "string": [""]
+    },
     "available": true,
-    "used_by": "",
-    "used_date": ""
+    "used_by": {
+       "string": [""]
+    },
+    "used_date": {
+       "string": [""]
+    }
   }
 }
