@@ -1,11 +1,11 @@
 {
   "redeem_code": {
-    "id": 0;
-    "code": "";
-    "issue_by": "";
-    "issue_date": "";
-    "available": true;
-    "used_by": "";
-    "used_date": "";
+    "id": 0,
+    "code": "",
+    "issue_by": "",
+    "issue_date": "",
+    "available": true,
+    "used_by": "",
+    "used_date": ""
   },
 }
